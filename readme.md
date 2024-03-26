@@ -4,9 +4,7 @@
 
 - [Introdução a algoritmos e Python](/aulas/1.md)
 
-## Exercícios
-
-- [Exercícios](/exercicios.md)
+- [Estrutura de seleção](/aulas/2.md)
 
 ## Referências
 
