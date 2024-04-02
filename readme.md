@@ -6,6 +6,12 @@
 
 - [Estrutura de seleção](/aulas/2.md)
 
+## Lista de exercícios
+
+- [Lista de Exercícios da Python Brasil - Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
+
+- [Estrutura de seleção](/exercicios/2.md)
+
 ## Referências
 
 - LOPES, A.; GARCIA, G. Introdução à programação: 500 algoritmos resolvidos. [s.l.] Campus, 2002.
