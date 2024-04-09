@@ -1,11 +1,13 @@
+# Verificar se um número é par ou ímpar
+
 x: int
 resto: int
 
-x = int( input("digite um número: ") )
+x = int( input("Digite um número: ") )
 
 resto = x % 2
 
 if resto == 0 :
-  print("é par")
+  print("É par")
 else :
-  print("é ímpar")
+  print("É ímpar")

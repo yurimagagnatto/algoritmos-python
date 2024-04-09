@@ -1,3 +1,5 @@
+# calculadora simples, soma e subtração
+
 numero1: int
 numero2: int
 operacao: int
@@ -15,4 +17,4 @@ if operacao == 2 :
   sub: int = numero1 - numero2
   print(numero1, "-", numero2, "=", sub)
 
-print("tchau!")
+print("fim!")

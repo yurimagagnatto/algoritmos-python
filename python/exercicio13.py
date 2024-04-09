@@ -1,3 +1,5 @@
+# Calculadora de áreas
+
 opcao: str
 
 print('1 - Quadrado')

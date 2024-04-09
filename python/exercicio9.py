@@ -1,3 +1,5 @@
+# IMC com if e else
+
 peso: float
 altura: float
 imc: float
@@ -22,9 +24,9 @@ else:
     else:
       # >= 30
       # OBESIDADE	II, OBESIDADE GRAVE	III
-      if imc < 40
+      if imc < 40:
         print('OBESIDADE	II')
-      else
+      else:
         print('OBESIDADE GRAVE	III')
 
 print('FIM')
