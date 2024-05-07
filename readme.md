@@ -6,11 +6,15 @@
 
 - [Estrutura de seleção](/aulas/2.md)
 
+- [Estruturas de repetição](/aulas/3.md)
+
 ## Lista de exercícios
 
 - [Lista de Exercícios da Python Brasil - Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
 
 - [Estrutura de seleção](/exercicios/2.md)
+
+- [Estruturas de repetição](/exercicios/3.md)
 
 ## Referências
 
