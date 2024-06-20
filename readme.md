@@ -20,7 +20,7 @@
 
 - [Estruturas de repetição](/exercicios/3.md)
 
-- [Lista de Exercícios da Python Brasil - Listas](https://wiki.python.org.br/ExerciciosListas)
+- [Lista de Exercícios da Python Brasil - Listas / Array](https://wiki.python.org.br/ExerciciosListas)
 
 ## Referências
 
